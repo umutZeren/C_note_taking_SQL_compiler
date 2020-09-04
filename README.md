@@ -3,7 +3,7 @@ A Dektop note taking app.Can search tagged notes with logic such as FIND(TAG1 OR
 # To add notes
 ADD Note_ID
 Note......
-......
+......  
 END
 # TAG Notes  
 indication of end with -1
@@ -48,8 +48,7 @@ FIND AND( work )
 DISPLAY 3  
 FIND AND( NOT( work ) fun )  
 ADD 40  
-Problems with pointers  
-----------------------  
+Problems with pointers    
 1. dangling pointers  
 2. memory leaks   
 END  
@@ -68,8 +67,8 @@ Vacation: Azores
 * Flight: ESB-LIS  
 END  
 TAG flight 60 -1  
-FIND AND( flight NOT( work ) )  
-#RESULT
+FIND AND( flight NOT( work ) )    
+# RESULT
 Results:  
 Id: 3 Things todo for the 326 Hw !  
 Id: 3
