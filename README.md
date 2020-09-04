@@ -64,7 +64,7 @@ TAG flight 50 -1
 TAG work 50 -1  
 ADD 60  
 Vacation: Azores   
-* Flight: ESB-LIS  
+ Flight: ESB-LIS  
 END  
 TAG flight 60 -1  
 FIND AND( flight NOT( work ) )    
