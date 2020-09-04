@@ -28,8 +28,8 @@ ascending order.
 # Test Case  
 ADD 3  
 Things todo for the 326 Hw !  
- * review dynamic memory allocation  
- * define the structs  
+  review dynamic memory allocation  
+  define the structs  
 END  
 TAG work 3 -1  
 TAG todo 3 -1  
@@ -39,7 +39,7 @@ Everybody's heard about the bird.
 END  
 TAG fun 10 -1  
 ADD 20  
-*** Play with Lola & Luka ***  
+ Play with Lola & Luka   
           :)  
 END  
 TAG todo 20 -1   
@@ -73,8 +73,8 @@ Results:
 Id: 3 Things todo for the 326 Hw !  
 Id: 3  
 Things todo for the 326 Hw !  
- * review dynamic memory allocation  
- * define the structs  
+  review dynamic memory allocation  
+  define the structs  
 Results:  
 Id: 10 Don't you know about the bird?  
 Results:  
