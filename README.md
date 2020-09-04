@@ -71,14 +71,14 @@ FIND AND( flight NOT( work ) )
 # RESULT
 Results:  
 Id: 3 Things todo for the 326 Hw !  
-Id: 3
-Things todo for the 326 Hw !
+Id: 3  
+Things todo for the 326 Hw !  
  * review dynamic memory allocation  
  * define the structs  
-Results:
+Results:  
 Id: 10 Don't you know about the bird?  
-Results:
+Results:  
 Id: 10 Don't you know about the bird?  
 Id: 40 Problems with pointers  
 Results:  
-Id: 60 Vacation: Azores   
+Id: 60 Vacation: Azores  
